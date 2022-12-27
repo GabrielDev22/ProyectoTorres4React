@@ -2,7 +2,7 @@ import "./HeaderComponent.css"
 import {Link} from "react-router-dom"
 export const HeaderComponent = () => {
 
-   /*  (function(){
+    /* (function(){
         const listElements = document.querySelectorAll('.menu__item--show');
         const list = document.querySelector('.menu__links');
         const menu = document.querySelector('.menu__hamburguer');

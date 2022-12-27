@@ -40,17 +40,17 @@ export const PreguntasFrecuenteComponent = () => {
                     </span>
                 </h3>
 
-                <p class="questions__show">
+                <p className="questions__show">
                     Los tiempos de demoras en cada uno de nuestros proyectos varian dependiendo el nivel de dificultad y de amplitud en cada uno de ellos. Lo cual hace dificil dar una fecha exacta, sin embargo llegando a un acuerdo con el cliente se puede entregar dichos proyectos en un lapso de tiempo estipulado, lo cual significaria entregarlo mucho antes de lo que seria lo habitual
                 </p>
             </div>
         </article>
 
-        <article class="questions__padding">
-            <div class="questions__answer">
-                <h3 class="questions__title">¿Nuestra forma de trabajo?
-                    <span class="questions__arrow">
-                        <img src="img/arrow.svg"  class="questions__img" alt="" />
+        <article className="questions__padding">
+            <div className="questions__answer">
+                <h3 className="questions__title">¿Nuestra forma de trabajo?
+                    <span className="questions__arrow">
+                        <img src="img/arrow.svg"  className="questions__img" alt="" />
                     </span>
                 </h3>
 

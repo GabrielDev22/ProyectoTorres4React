@@ -27,8 +27,8 @@ export const ServicioComponent = () => {
                  </p>     
              </div>     
 
-             <div class="servicios">
-                 <img src="img/analisis_usuarios.svg" class="iconos" alt="" />
+             <div className="servicios">
+                 <img src="img/analisis_usuarios.svg" className="iconos" alt="" />
                  <p>
                     Nos encargamos de analizar a todos los usuarios que visitan nuestra pagina o aplicacion, llevando un registro de las cosas con las que mas interactuan y buscando patrones y razones para insitar despues a interactuar con el resto de opcioness
                  </p>    
